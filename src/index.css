@@ -69,3 +69,9 @@ code {
 .sb {
   font-size:27px;
 }
+
+.description {
+  padding: 20px 40px;
+  background-color: #fffacf;
+  font-size: 16px;
+}

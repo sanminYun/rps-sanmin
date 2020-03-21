@@ -16,7 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simple-rps-simulator" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZQ2iHjLhZlgblP7Rpxb1injfTF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584757122967</updated>
-      <workItem from="1584757124352" duration="30738000" />
+      <workItem from="1584757124352" duration="31615000" />
     </task>
     <servers />
   </component>
