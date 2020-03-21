@@ -173,19 +173,16 @@ const reducer = (state = initialState, action) => {
             }
 
         case ActionCreators.SETTING_SET:
-            console.log(state);
             return {
                 ...state,
                 totalSet:action.totalSet,
             };
         case ActionCreators.SETTING_LIMIT_TIME:
-            console.log(state);
             return {
                 ...state,
                 limitTime:action.limitTime,
             };
         case ActionCreators.SETTING_ROUND:
-            console.log(state);
             return {
                 ...state,
                 totalRound:action.totalRound,

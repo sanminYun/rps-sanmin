@@ -1,14 +1,3 @@
-// export const SETTING_ROUND = 'SETTING_ROUND';
-// export const SETTING_SET = 'SETTING_SET';
-// export const SETTING_LIMIT_TIME = 'SETTING_LIMIT_TIME';
-// export const SELECT = 'SELECT';
-// export const START = 'START';
-// export const STOP = 'STOP';
-// export const COUNT_DOWN = 'COUNT_DOWN';
-// export const RETRY = 'RETRY';
-// export const QUIT = 'QUIT';
-// export const UPDATE = 'UPDATE';
-
 export const ActionCreators = {
     TIME_OVER:'TIME_OVER',
     SETTING_ROUND: 'SETTING_ROUND',

@@ -1,7 +1,6 @@
 import React from "react";
 import {connect} from "react-redux";
-import {countDown, startGame, stopGame} from "../actions";
-import { store } from '../store';
+import {countDown, startGame} from "../actions";
 
 const Counter = ({isStart = false, time, start,limitTime, totalSet, totalRound, win}) => {
     return (
